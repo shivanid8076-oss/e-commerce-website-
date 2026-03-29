@@ -248,8 +248,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Email**: shivanid8076@gmail.com
-- **Phone**: +91 8076566995
 - **GitHub**: [shivanid8076-oss](https://github.com/shivanid8076-oss)
 - **Location**: JB Knowledge Park, MDU
 
